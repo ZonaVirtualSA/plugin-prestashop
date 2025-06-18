@@ -1,0 +1,33 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{zonapagos}prestashop>zonapagos_4d7195248ca3d0d94567fbdfaaff6f2e'] = 'ZonaPAGOS';
+$_MODULE['<{zonapagos}prestashop>zonapagos_10d276d401f24854bf51c2de4a970b9c'] = 'Este módulo permite aceptar pagos por la pasarela ZonaPAGOS de ZonaVirtual.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_e09484ba6c16bc20236b63cc0d87ee95'] = 'Está seguro que desea borrar esta configuración?';
+$_MODULE['<{zonapagos}prestashop>zonapagos_c37622c0162bc429f27cddafcd582360'] = 'Los campos \"Ruta en la cual se ubica el datafono\", \"Código de servicio\", \"Identificador único del comercio\", \"Clave inicio\", \"Usuario V4\", \"Contraseña V4\", \"Email de contacto\" y \"Teléfono de contacto\" deben ser configurados para usar este módulo.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_f3a972af11e4b951a9bc9c7614790df0'] = 'El campo \"Ruta en la cual se ubica el datafono\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_1e73619c1560ef9ff5f69d9020b7821b'] = 'El campo \"Código de servicio\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_236bbcee4ecc1f453bb37c3ac230f378'] = 'El campo \"Identificador único del comercio\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_4f92d1fec3301d608b64dff87af8887a'] = 'El campo \"Clave inicio\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_26accbf64675c4d671218c8a56cdbc46'] = 'El campo \"Usuario V4\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_f1cd9715d8105911f642fc03893feb07'] = 'El campo \"Contraseña V4\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_ff8de1266b174af104950bd1c5ee4916'] = 'El campo \"Email de contacto\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_a6b6b1274e6d647f407c45ad8164288e'] = 'El campo \"Teléfono de contacto\" es requerido.';
+$_MODULE['<{zonapagos}prestashop>zonapagos_c888438d14855d7d96a2724ee9c306bd'] = 'Configuración actualizada';
+$_MODULE['<{zonapagos}prestashop>zonapagos_d16dce70f4e075ef6e8867db9776bec0'] = 'Pago seguro con ZonaPAGOS de ZonaVirtual';
+$_MODULE['<{zonapagos}prestashop>zonapagos_50f33d14f129e4548c1c270fd6725a78'] = 'Opciones de configuración';
+$_MODULE['<{zonapagos}prestashop>zonapagos_ac70412e939d72a9234cdebb1af5867b'] = 'Ruta en la cual se ubica el datafono';
+$_MODULE['<{zonapagos}prestashop>zonapagos_6229d1c62dc797dbece0906fa7eac400'] = 'Código de servicio';
+$_MODULE['<{zonapagos}prestashop>zonapagos_a7222a44193ca8729865d34dae936703'] = 'Identificador único del comercio';
+$_MODULE['<{zonapagos}prestashop>zonapagos_897356954c2cd3d41b221e3f24f99bba'] = 'Clave inicio';
+$_MODULE['<{zonapagos}prestashop>zonapagos_cb10b02c1826a51c21e3bd8719e847ce'] = 'Usuario V4';
+$_MODULE['<{zonapagos}prestashop>zonapagos_8df92874f28fc83b2099563797198991'] = 'Contraseña V4';
+$_MODULE['<{zonapagos}prestashop>zonapagos_ce8ae9da5b7cd6c3df2929543a9af92d'] = 'Email de contacto';
+$_MODULE['<{zonapagos}prestashop>zonapagos_bcc254b55c4a1babdf1dcb82c207506b'] = 'Teléfono de contacto';
+$_MODULE['<{zonapagos}prestashop>zonapagos_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{zonapagos}prestashop>payment_execution_c6be610d87b3b7aac35cf0e5b960d1d8'] = 'Intentar pagar nuevamente';
+$_MODULE['<{zonapagos}prestashop>payment_infos_ba0b3f72dba64f6e6fe5cd57e255b85b'] = 'Usted será redirigido a la pasarela de pagos ZonaPAGOS de ZonaVirtual';
+$_MODULE['<{zonapagos}prestashop>infos_10d276d401f24854bf51c2de4a970b9c'] = 'Este módulo le permite aceptar pagos por la pasarela ZonaPAGOS de ZonaVirtual';
+$_MODULE['<{zonapagos}prestashop>infos_54ff145ec0fe13730c7f6abc3d38c16f'] = 'Si los clientes eligen este método de pago, el estado de la orden quedará en estado Pendiente.';
+$_MODULE['<{zonapagos}prestashop>infos_5f35c302fe6490548b049d94df5cbf26'] = 'Usted necesita esperar hasta el módulo valide el pago para que el estado de la orden cambie a Pago Aceptado.';
