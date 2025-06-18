@@ -52,7 +52,7 @@ Este módulo permite integrar la pasarela de pagos **Zonapagos** en tiendas desa
 
 ¿Tienes dudas o necesitas ayuda con la integración?
 
-📧 soporte@zonapagos.com  
+📧 soporte@zonavirtual.com  
 🌐 [https://www.zonapagos.com](https://www.zonapagos.com)
 
 
